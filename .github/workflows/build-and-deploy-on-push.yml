@@ -71,5 +71,5 @@ jobs:
          -Danypoint.password="$PASSWORD" \
          # -Dclient.id="$ID" \
          # -Dclient.secret="$SECRET" \
-         -D
+         -DBUS_GROUP_ID="$BUS_GROUP_ID"
          
